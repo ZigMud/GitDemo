@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A6A9CEFE21B58D6100AC3759 /* .gitignor in Resources */ = {isa = PBXBuildFile; fileRef = A6A9CEFD21B58D6100AC3759 /* .gitignor */; };
 		A6DFE5C421B583C40043BB16 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DFE5C321B583C40043BB16 /* AppDelegate.swift */; };
 		A6DFE5C621B583C40043BB16 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = A6DFE5C521B583C40043BB16 /* ViewController.swift */; };
 		A6DFE5C921B583C40043BB16 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = A6DFE5C721B583C40043BB16 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A6A9CEFD21B58D6100AC3759 /* .gitignor */ = {isa = PBXFileReference; lastKnownFileType = text; path = .gitignor; sourceTree = "<group>"; };
 		A6DFE5C021B583C40043BB16 /* GitDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A6DFE5C321B583C40043BB16 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A6DFE5C521B583C40043BB16 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -38,6 +40,7 @@
 		A6DFE5B721B583C40043BB16 = {
 			isa = PBXGroup;
 			children = (
+				A6A9CEFD21B58D6100AC3759 /* .gitignor */,
 				A6DFE5C221B583C40043BB16 /* GitDemo */,
 				A6DFE5C121B583C40043BB16 /* Products */,
 			);
@@ -124,6 +127,7 @@
 			files = (
 				A6DFE5CE21B583C50043BB16 /* LaunchScreen.storyboard in Resources */,
 				A6DFE5CB21B583C50043BB16 /* Assets.xcassets in Resources */,
+				A6A9CEFE21B58D6100AC3759 /* .gitignor in Resources */,
 				A6DFE5C921B583C40043BB16 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
